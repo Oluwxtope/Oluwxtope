@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏾‍💻 Full-stack software developer<br>🔭 I’m currently working on [NExTNet Sapiens](https://nextnetinc.com)<br>🌱 I’m currently learning AWS, TypeScript, and React  
+👨🏾‍💻 Full-stack software developer<br>🔭 Previously at [NExTNet Sapiens](https://nextnetinc.com)<br>🌱 I’m currently learning AWS, TypeScript, and React  
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oluwatopealofe) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oluwatopealofe@gmail.com)  
