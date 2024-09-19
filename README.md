@@ -9,7 +9,7 @@
 
 - ⚙️ I'm currently grinding **Leetcode**
 
-- 📫 How to reach me [**oluwatopealofe@gmail.com**](mailto:oluwatopealofe@gmail.com)
+- 📫 How to reach me [oluwatopealofe@gmail.com](mailto:oluwatopealofe@gmail.com)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/oluwatopealofe](https://www.linkedin.com/in/oluwatopealofe)
 
