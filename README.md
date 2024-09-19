@@ -3,7 +3,7 @@
 
 - 🏢 Previously @ [Nextnet](https://getnextnet.com/)
 
-- 💼 I'm open to **full-time roles**
+- 💼 I'm searching for **full-time Software Engineer roles**
 
 - 🎓 BSc. Honours Science & Minor in Computer Science @ UWaterloo 2022 
 
