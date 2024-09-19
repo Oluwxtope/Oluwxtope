@@ -5,7 +5,7 @@
 
 - 💼 I'm open to **full-time roles**
 
-- 🎓 BSc. Honours Science & Minor in Computer Science, UWaterloo 2022 
+- 🎓 BSc. Honours Science & Minor in Computer Science @ UWaterloo 2022 
 
 - 🌱 I’m currently learning **Java, GraphQL and Kubernetes**
 
