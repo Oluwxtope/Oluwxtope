@@ -1,6 +1,8 @@
 <h1 align="center">Hello 👋🏾, I'm Emmanuel</h1>
 <h3 align="center">Software Engineer</h3>
 
+- 🏢 Previously @ [Nextnet](https://getnextnet.com/)
+
 - 💼 I'm open to **full-time roles**
 
 - 🌱 I’m currently learning **Java, GraphQL and Kubernetes**
