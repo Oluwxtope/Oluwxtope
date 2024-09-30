@@ -3,13 +3,9 @@
 
 - 🏢 Previously @ [Nextnet](https://getnextnet.com/)
 
-- 💼 I'm searching for **full-time Software Engineer roles**
-
 - 🎓 BSc. Honours Science & Minor in Computer Science @ UWaterloo 2022 
 
-- 👨🏾‍💻 I’m currently learning **Java, GraphQL and Kubernetes**
-
-- ⚙️ I'm currently grinding **Leetcode**
+- 👨🏾‍💻 I’m currently learning **Java** and grinding **Leetcode**
 
 - 📫 How to reach me [oluwatopealofe@gmail.com](mailto:oluwatopealofe@gmail.com)
 
