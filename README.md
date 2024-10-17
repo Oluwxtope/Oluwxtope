@@ -16,15 +16,3 @@
 [![](https://visitcount.itsvg.in/api?id=oluwxtope&icon=0&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-🏢 Previously @ Nextnet
-
-🎓 BSc. Honours Science & Minor in Computer Science @ UWaterloo 2022
-
-👨🏾‍💻 I’m currently learning Java and grinding Leetcode
-
-📫 How to reach me oluwatopealofe@gmail.com
-
-
-
-⚡ Fun fact I've lived in 4 countries
