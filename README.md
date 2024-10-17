@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋🏾, I'm Emmanuel</h1>
+<h1 align="center">Hello, I'm Emmanuel 👋🏾</h1>
 
 ## 💫 About Me:
 🏢 Previously @ [Nextnet](https://getnextnet.com/)<br>🎓 BSc. Honours Science & Minor in Computer Science @ UWaterloo 2022<br>👨🏾‍💻 I’m currently learning **Java** and grinding **Leetcode**<br>📫 Chat with me at [oluwatopealofe@gmail.com](mailto:oluwatopealofe@gmail.com)
