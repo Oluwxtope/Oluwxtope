@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Emmanuel 👋🏾</h1>
 
 ## 💫 About Me:
-🏢 Previously @ [Nextnet](https://getnextnet.com/)<br>🎓 BSc. Honours Science & Minor in Computer Science @ UWaterloo 2022<br>👨🏾‍💻 I’m currently learning **Java** and grinding **Leetcode**<br>📫 Chat with me at [oluwatopealofe@gmail.com](mailto:oluwatopealofe@gmail.com)
+🏢 Previously @ [Nextnet](https://getnextnet.com/)<br>🎓 BSc. Honours Science & Minor in Computer Science @ UWaterloo 2022<br>👨🏾‍💻 I’m currently learning **Java** and grinding **Leetcode**<br>📫 Chat with me at [oluwatopealofe@gmail.com](mailto:oluwatopealofe@gmail.com)<br>📄 Connect with me on [LinkedIn](https://www.linkedin.com/in/oluwatopealofe)
 
 ## 🌐 Socials:
 [![Email]( https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oluwatopealofe@gmail.com) [![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oluwatopealofe) 
@@ -16,3 +16,15 @@
 [![](https://visitcount.itsvg.in/api?id=oluwxtope&icon=0&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+🏢 Previously @ Nextnet
+
+🎓 BSc. Honours Science & Minor in Computer Science @ UWaterloo 2022
+
+👨🏾‍💻 I’m currently learning Java and grinding Leetcode
+
+📫 How to reach me oluwatopealofe@gmail.com
+
+
+
+⚡ Fun fact I've lived in 4 countries
