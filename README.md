@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Emmanuel 👋🏾</h1>
 
 ## 💫 About Me:
-🏢 Previously @ [Nextnet](https://getnextnet.com/)<br>🎓 BSc. Honours Science & Minor in Computer Science @ UWaterloo 2022<br>👨🏾‍💻 I’m currently learning **Java** and grinding **Leetcode**<br>📫 Email me at [oluwatopealofe@gmail.com](mailto:oluwatopealofe@gmail.com)<br>📄 Connect with me on [LinkedIn](https://www.linkedin.com/in/oluwatopealofe)
+🏢 Software Engineer @ TD | Previously @ [Nextnet](https://getnextnet.com/)<br>🎓 BSc. Honours Science & Minor in Computer Science @ UWaterloo 2022<br>👨🏾‍💻 I’m currently learning **Java** and grinding **Leetcode**<br>📫 Email me at [oluwatopealofe@gmail.com](mailto:oluwatopealofe@gmail.com)<br>📄 Connect with me on [LinkedIn](https://www.linkedin.com/in/oluwatopealofe)
 
 ## 🌐 Socials:
 [![Email]( https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oluwatopealofe@gmail.com) [![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oluwatopealofe) 
